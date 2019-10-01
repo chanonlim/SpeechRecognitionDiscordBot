@@ -1,0 +1,3 @@
+chatterbot
+cleverbotfree
+websocket-client

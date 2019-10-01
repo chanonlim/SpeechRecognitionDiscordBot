@@ -228,3 +228,6 @@ dmypy.json
 # VirtualEnv
 /bin
 /include
+
+# Configs
+config.json
